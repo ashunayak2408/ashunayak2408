@@ -1,16 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Nayak</h1>
-<h3 align="center">QA Professional | Test Automation Specialist | Delivering Scalable and Efficient Testing Solutions</h3>
+<h3 align="center">SDET | Automation Framework Engineer | CI/CD & Cloud-Driven Quality Advocate</h3>
 
-- 🔭 I’m currently working on:
-  - **Enhancing and maintaining QA Automation Frameworks** using **JavaScript, Playwright, Cypress, and Axios** to ensure comprehensive test coverage and reliability.
-  - **Optimizing CI/CD pipelines** with **Jenkins and GitLab** to streamline the testing process and enable efficient software delivery.
-  - **Collaborating with cross-functional teams** to align testing strategies with business goals, ensuring high-quality software products.
+- 🚀 I design and maintain scalable automation frameworks using TypeScript with Playwright and API automation using Rest-Assured (Java) to ensure reliable and high-performance test coverage.
+- 🔄 I implement DevOps practices by integrating automation suites into CI/CD pipelines with Jenkins and GitLab, accelerating release cycles and improving deployment confidence.
+- 🐳 I leverage containerization (Docker) and AWS-based cloud environments to enable scalable, distributed, and resilient test execution.
+- 🧩 I focus on clean architecture, structured logging, parallel execution, and maintainable framework design to build long-term automation solutions.
+- 🤝 I collaborate closely with cross-functional teams to embed quality engineering into the software delivery lifecycle.
 
-- 🌱 I’m currently learning **Appium, DevOps, and AWS to expand my expertise in mobile testing and cloud-based solutions.**
+- 🌱 Currently expanding expertise in **Agentic AI and intelligent automation systems** to build smarter, self-adaptive testing solutions.
 
-- 📫 How to reach me:
-  - **Email**: ashunayak.2408@gmail.com
-  - **LinkedIn**: [linkedin.com/in/ashutosh-nayak-845057292](https://linkedin.com/in/ashutosh-nayak-845057292)
+- 📫 Reach me at:
+  - **Email:** ashunayak.2408@gmail.com
+  - **LinkedIn:** https://linkedin.com/in/ashutosh-nayak-845057292
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
